@@ -34,3 +34,6 @@
 - git checkout másol_ág_neve
 > Ág törlése (aktuális ág nem törölhető)
 - git branch -d törlendő_ág_neve
+> Változások átvezetése (merge)
+- git checkout ág_ahova_kerülnek_a_változások
+- gti merge ág_ahonnan áthozzuk_a_változásokat
