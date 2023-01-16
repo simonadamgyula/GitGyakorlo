@@ -22,3 +22,4 @@
 - git push
 ## 8. Távoli repó másolása (klónozása) a lokális repóba
 - git clone "Távoli repó URL címe"
+- 
